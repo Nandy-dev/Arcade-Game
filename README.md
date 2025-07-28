@@ -1,6 +1,21 @@
-# Arcade-Game# 🚀 Space Arcade Game
+🚀 Space Arcade Game
 
 ## 📸 Visuals & Demo
+
+### Game Start  
+![Game Start](captures/game_start.png)
+
+### Game Path (Parcours)  
+![Game Path](captures/parcours.png)
+
+### Missile Shooting  
+![Missile Shooting](captures/tir_missile.png)
+
+### Meteorites  
+![Meteorites](captures/meteorites.png)
+
+### Game Over  
+![Game Over](captures/game_over.png)
 
 
 ## 🎮 Game Description
